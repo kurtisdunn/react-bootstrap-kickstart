@@ -1,0 +1,26 @@
+{
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "es6": true,
+        "node": true
+    },
+    "extends": "eslint:recommended",
+    "parserOptions": {
+        "ecmaFeatures": {
+            "experimentalObjectRestSpread": true,
+            "jsx": true
+        },
+        "sourceType": "module"
+    },
+    "rules": {
+        "linebreak-style": 0,
+        "no-unused-vars": 0,
+        "no-console": 0,
+        "quotes": [ 1, "single" ],
+        "semi": [
+            2,
+            "always"
+        ]
+    }
+}

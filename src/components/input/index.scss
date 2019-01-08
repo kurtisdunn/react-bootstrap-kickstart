@@ -1,0 +1,18 @@
+.form-control{
+  background: #282828;
+  color:#f7f7f7;
+  &:focus{
+    background: #585757;
+    color:#f7f7f7;
+  }
+}
+.form-control-feedback{
+  color: #d23737;
+}
+.form-control-danger{
+  border-color: #d23737;
+}
+
+.form-group label{
+  color: #cccccc
+}

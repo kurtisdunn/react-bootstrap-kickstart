@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+dist
+*.log
+coverage
+.eslint.js
+.eslintrc.js
+src/images
+package-lock.json

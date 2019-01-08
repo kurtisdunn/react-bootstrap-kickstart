@@ -1,0 +1,20 @@
+@import 'bootstrap';
+@import 'typography';
+
+html{
+  min-height: 100%;
+}
+body{
+  color:#f7f7f7;
+  background: #282828;
+  height: 100%;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #aba;
+    margin: 1.1em 0;
+    padding: 0;
+}
