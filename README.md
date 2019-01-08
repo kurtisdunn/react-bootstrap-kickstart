@@ -39,7 +39,7 @@ max-width: 1199.98px;
 
 ```
 
-##Form validation
+### Form validation
 Contains form and input validation. Generally you would wrap a POST or PUT in a form tag and add validation tag to the input. It also can be done inline if needed. *Nested forms are partially supported depending on tree structure and depth of component to be validated.
 
 Typical form to be validated
